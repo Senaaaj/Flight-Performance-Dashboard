@@ -46,5 +46,4 @@ Interactive Power BI dashboard analyzing flight performance, delays, cancellatio
 
 **Senaya Jayasuriya**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
+- LinkedIn: www.linkedin.com/in/senayajayasuriya
