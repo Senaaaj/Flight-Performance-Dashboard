@@ -31,16 +31,6 @@ Interactive Power BI dashboard analyzing flight performance, delays, cancellatio
 - Overall Flight Status Summary
 
   ---
- ## 💡Key Insights
-
-- More than **2 million** flights were analyzed.
-- Approximately **58%** of flights arrived on time.
-- Around **40%** of flights experienced delays.
-- Weather was the leading cause of flight cancellations.
-- Atlanta handled the highest number of flights among all airports analyzed.
-- Some airlines recorded delay rates exceeding **50%**, highlighting significant operational differences.
-
----
 ## 🧹 Data Preparation
 
 The dataset was cleaned and transformed using **Power Query** within Power BI.
@@ -62,7 +52,14 @@ The preparation process included:
 | **Cancellation Codes** | Provides descriptions for flight cancellation reasons such as Weather, Airline/Carrier, Security, and National Air System. |
 
 ---
+ ## 💡Key Insights
 
+- More than **2 million** flights were analyzed.
+- Approximately **58%** of flights arrived on time.
+- Around **40%** of flights experienced delays.
+- Weather was the leading cause of flight cancellations.
+- Atlanta handled the highest number of flights among all airports analyzed.
+- Some airlines recorded delay rates exceeding **50%**, highlighting significant operational differences.
 ## 👤 Author
 
 **Senaya Jayasuriya**
