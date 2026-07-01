@@ -1,7 +1,7 @@
-# Flight-Performance-Dashboard
+# ✈️Flight-Performance-Dashboard
 Interactive Power BI dashboard analyzing flight performance, delays, cancellations, and airline operations
 
-## Project Overview
+## 🎯Project Overview
 - Analyze overall flight operations and performance.
 - Monitor flight delays and cancellations.
 - Compare airline performance based on delay percentages.
@@ -31,8 +31,7 @@ Interactive Power BI dashboard analyzing flight performance, delays, cancellatio
 - Overall Flight Status Summary
 
   ---
-  
-## 🔍 Key Insights
+ ## 💡Key Insights
 
 - More than **2 million** flights were analyzed.
 - Approximately **58%** of flights arrived on time.
@@ -42,6 +41,28 @@ Interactive Power BI dashboard analyzing flight performance, delays, cancellatio
 - Some airlines recorded delay rates exceeding **50%**, highlighting significant operational differences.
 
 ---
+## 🧹 Data Preparation
+
+The dataset was cleaned and transformed using **Power Query** within Power BI.
+
+The preparation process included:
+- Removing unnecessary columns
+- Handling missing values
+- Correcting data types
+- Creating calculated columns
+- Preparing data for visualization
+
+---
+## 📂 Dataset
+| Table | Description |
+|--------|-------------|
+| **Flights** | Contains flight records including airline, departure delays, cancellation status, flight status, month, and day of the week. |
+| **Airlines** | Maps airline names to their corresponding IATA airline codes. |
+| **Airports** | Contains airport information including airport name, city, state, country, and geographic coordinates. |
+| **Cancellation Codes** | Provides descriptions for flight cancellation reasons such as Weather, Airline/Carrier, Security, and National Air System. |
+
+---
+
 ## 👤 Author
 
 **Senaya Jayasuriya**
